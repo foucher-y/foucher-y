@@ -3,12 +3,13 @@
 * I am an Professor of Biostatistics.
 * I teach Biostatistics and Epidemiology at the Faculty for Health in Poitiers University.
 * I am responsable for the plateform for Methodology, Biostatiststic and Data Management at Poitiers University Hospital.
-* My research is integrated into the clinical investigation center (CIC Inserm 1402).
+* My research is integrated into the clinical investigation center (CIC <img src="https://github.com/foucher-y/foucher-y/blob/main/logoINSERM.png" width="40"> 1402).
 
 ### Main <img src="https://github.com/chupverse/.github/blob/main/profile/logoR.png" width="25"> packages
 
 * [survivalSL](https://github.com/foucher-y/survivalSL) to construct a super learner in the presence of censored times-to-event.
-* [RISCA](https://github.com/foucher-y/RISCA)  proposes numerous functions for cohort-based analyses, either for prediction or causal inference. 
+* [RISCA](https://github.com/foucher-y/RISCA)  proposes numerous functions for cohort-based analyses, either for prediction or causal inference.
+
 <p align="center">
-  <img src="https://github.com/chupverse/.github/blob/main/profile/logoCHUP.png" width="140"> $~$ $~$ $~$ $~$ $~$ $~$ <img src="https://github.com/foucher-y/foucher-y/blob/main/logoUP.png" width="120"> $~$ $~$ $~$ $~$ $~$ $~$ <img src="https://github.com/foucher-y/foucher-y/blob/main/logoINSERM.png" width="110">
+  <img src="https://github.com/chupverse/.github/blob/main/profile/logoCHUP.png" width="100"> $~$ $~$ $~$ $~$ $~$ $~$ <img src="https://github.com/foucher-y/foucher-y/blob/main/logoUP.png" width="100">
 </p>  
