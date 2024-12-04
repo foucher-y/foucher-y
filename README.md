@@ -1,4 +1,4 @@
-### About me
+### About me 🧐
 
 * I am an Professor of Biostatistics.
 * I teach Biostatistics and Epidemiology at the Faculty for Health in Poitiers University.
