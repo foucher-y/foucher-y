@@ -20,5 +20,5 @@
 
 <p></br></p>
 <p align="center">
-  <img src="https://github.com/chupverse/.github/blob/main/profile/logoCHUP.png" width="200"> $~~~$ <img src="https://github.com/foucher-y/foucher-y/blob/main/logoUP.png" width="150">  $~~~$  <img src="https://github.com/foucher-y/foucher-y/blob/main/logoINSERM.pdf" width="150">
+  <img src="https://github.com/chupverse/.github/blob/main/profile/logoCHUP.png" width="200"> $~$ $~$ $~$ <img src="https://github.com/foucher-y/foucher-y/blob/main/logoUP.png" width="200">  $~$  $~$ $~$ <img src="https://github.com/foucher-y/foucher-y/blob/main/logoINSERM.png" width="200">
 </p>  
