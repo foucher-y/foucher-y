@@ -9,7 +9,3 @@
 
 * [survivalSL](https://github.com/foucher-y/survivalSL) to construct a super learner in the presence of censored times-to-event.
 * [RISCA](https://github.com/foucher-y/RISCA)  proposes numerous functions for cohort-based analyses, either for prediction or causal inference.
-
-<p align="center">
-  <img src="https://github.com/chupverse/.github/blob/main/profile/logoCHUP.png" width="100"> $~$ $~$ $~$ $~$ $~$ $~$ <img src="https://github.com/foucher-y/foucher-y/blob/main/logoUP.png" width="100">
-</p>  
