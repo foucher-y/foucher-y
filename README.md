@@ -1,9 +1,9 @@
-### About me 🧐
+### About me
 
-* I am an Professor of Biostatistics.
-* I teach Biostatistics and Epidemiology at the Faculty for Health in Poitiers University.
-* I am responsable for the plateform for Methodology, Biostatiststic and Data Management at Poitiers University Hospital.
-* My research is integrated into the clinical investigation center (CIC <img src="https://github.com/foucher-y/foucher-y/blob/main/logoINSERM.png" width="40"> 1402).
+* Professor of Biostatistics.
+* Teacher at the Faculty for Health in Poitiers University.
+* Responsable of the plateform for Methodology, Biostatiststic and Data Management at Poitiers University Hospital.
+* Research in survival  analysis and/or causality (CIC <img src="https://github.com/foucher-y/foucher-y/blob/main/logoINSERM.png" width="40"> 1402).
 
 ### Main <img src="https://github.com/chupverse/.github/blob/main/profile/logoR.png" width="25"> packages
 
