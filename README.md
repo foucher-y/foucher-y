@@ -1,4 +1,4 @@
-<img src="logoUP.png" align="right" height="50"/>  <img src="logoCHUbleu.png" align="right" height="50"/>
+<img src="logoUP.png" align="right" height="50"/>  <img src="logoCHUbleu.png" align="right" height="60"/>
 
 ## About me
 
