@@ -5,7 +5,7 @@
 * Professor of Biostatistics.
 * Teacher at the Faculty for Health in Poitiers University.
 * Responsable of the plateform for Methodology, Biostatiststic and Data Management at Poitiers University Hospital.
-* Research in survival  analysis and/or causality (CIC <img src="https://github.com/foucher-y/foucher-y/blob/main/logoINSERM.png" width="40"> 1402).
+* Research in survival  analysis and/or causality (CIC Inserm 1402).
 
 ##  <img src="https://github.com/chupverse/.github/blob/main/profile/logoR.png" width="25"> packages
 
